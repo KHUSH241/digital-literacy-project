@@ -9,7 +9,7 @@
 |---|---|
 | Name | Khush M Lohar |
 | Registration Number | 25BAI11336 |
-| Branch | B.Tech – Computer Science and Engineering (AI) |
+| Branch | B.Tech – Computer Science and Engineering (AIML) |
 | Year | First Year |
 | Course Code | CSE0001 – Digital Literacy |
 
@@ -78,8 +78,8 @@ Wrote a phishing attack case study and created an 8-point Stay Safe Online preve
 
 ## About Me
 
-I am a first year B.Tech student in Computer Science and Engineering (AI) at VIT Bhopal University. I hope to learn how to build real-world AI applications and contribute to open source projects during my degree.
+I am a first year B.Tech student in Computer Science and Engineering (AIML) at VIT Bhopal University. I hope to learn how to build real-world AI applications and contribute to open source projects during my degree.
 
 ---
 
-*Submitted: 31st March 2026*
+*Submitted: 22nd March 2026*
