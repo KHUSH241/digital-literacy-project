@@ -66,7 +66,7 @@ Set up profiles on GitHub, LinkedIn, and Kaggle. GitHub profile README includes 
 ### Task 3 – Platforms
 Completed HackerRank beginner challenge. Created a 5-question Digital Literacy Awareness Quiz on Google Forms.
 
-**Google Form Link:** https://docs.google.com/forms/d/1PulQn9TTYEqlFcFEu9dNVSXsawazeqKkLTaWCpBdhD0/edit
+**Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSfHWyejZ4IFe1QUSa7JfjMcaJ7KK-pfyMa_kcrNHnU6o3DBUw/viewform?usp=header
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails (assignment extension request and internship application). Created a social media Do's and Don'ts checklist.
