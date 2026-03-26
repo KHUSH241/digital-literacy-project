@@ -43,10 +43,10 @@ digital-literacy-project/
 │   ├── linkedin1-profile.png
 │   └── kaggle-profile.png
 ├── task-3-platforms/
-│   ├── hackerrank-challenge.png
-│   ├── google-form.png
-│   ├── google-form1.png
-│   └── google-sheet-responses.png
+│   ├── googleform.png
+│   ├── googleform1.png
+│   ├── googlesheetresponses.png
+│   └── hackerrank-challenge.png
 ├── task-4-email-etiquette/
 │   ├── email-drafts.pdf
 │   └── social-media-checklist.md
