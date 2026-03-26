@@ -40,10 +40,12 @@ digital-literacy-project/
 ├── task-2-portfolio/
 │   ├── github-profile.png
 │   ├── linkedin-profile.png
+│   ├── linkedin1-profile.png
 │   └── kaggle-profile.png
 ├── task-3-platforms/
 │   ├── hackerrank-challenge.png
 │   ├── google-form.png
+│   ├── google-form1.png
 │   └── google-sheet-responses.png
 ├── task-4-email-etiquette/
 │   ├── email-drafts.pdf
