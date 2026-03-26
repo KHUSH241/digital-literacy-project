@@ -36,6 +36,7 @@ digital-literacy-project/
 ├── report/
 │   └── Project_Report.pdf
 ├── task-1-presentation/
+│   ├── description.md
 │   └── infographic.png
 ├── task-2-portfolio/
 │   ├── github-profile.png
