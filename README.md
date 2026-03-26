@@ -45,7 +45,7 @@ digital-literacy-project/
 ├── task-3-platforms/
 │   ├── googleform.png
 │   ├── googleform1.png
-│   ├── googlesheetresponses.png
+│   ├── googleresponse.png
 │   └── hackerrank-challenge.png
 ├── task-4-email-etiquette/
 │   ├── email-drafts.pdf
