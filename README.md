@@ -39,9 +39,9 @@ digital-literacy-project/
 │   └── infographic.png
 ├── task-2-portfolio/
 │   ├── github-profile.png
+│   ├── kaggle-profile.png
 │   ├── linkedin-profile.png
-│   ├── linkedin1-profile.png
-│   └── kaggle-profile.png
+│   └── linkedin-profile1.png
 ├── task-3-platforms/
 │   ├── googleform.png
 │   ├── googleform1.png
